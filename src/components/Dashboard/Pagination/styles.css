@@ -1,0 +1,7 @@
+.pagination-component {
+  margin: 1.5em;
+  display: flex;
+  justify-content: center; /* Centers the pagination horizontally */
+  align-items: center;
+  margin-top: 0px; /* Optional margin to control spacing */
+}
